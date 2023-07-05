@@ -1,0 +1,7 @@
+ubuntu
+ansible-tower
+
+
+[rocky]
+host-01
+host-02
